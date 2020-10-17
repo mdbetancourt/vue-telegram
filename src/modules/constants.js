@@ -1,0 +1,1 @@
+export const MAX_OFFSET = '9223372036854775807'
